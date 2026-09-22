@@ -451,10 +451,10 @@ It should be **understandable, documented, testable, maintainable, and continuou
 
 ---
 
-# 💭 Philosophy
+# 🧠 Engineering Philosophy
 
-> **Build with curiosity. Learn by building. Turn ideas into useful systems.**
+> **Ideas become meaningful when they survive experimentation and become something people can use.**
 
 <p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+  <i>Think deeply. Build boldly. Improve continuously.</i>
 </p>
