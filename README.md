@@ -34,9 +34,7 @@ I'm particularly interested in projects where AI can become a useful part of a c
 🚀 Building Real-World Projects
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meganathm123-lgtm/meganathm123-lgtm/main/assets/about-me-github.gif" width="800" alt="Meganath coding animation"/>
-</p>
+</td> <td width="42%" valign="middle" align="center"> <img src="https://raw.githubusercontent.com/meganathm123-lgtm/meganathm123-lgtm/main/assets/about-me-github.gif" width="100%" alt="Meganath coding animation"/> </td> </tr> </table> ```
 
 ---
 
@@ -111,8 +109,6 @@ XGBoost
 Logistic Regression
 Support Vector Machines
 Scikit-learn
-TensorFlow
-TensorFlow Lite
 Natural Language Processing
 RAG
 ```
