@@ -14,27 +14,48 @@ CSE (AI & ML) • AI/ML Developer • Full-Stack Builder • Robotics Explorer
 
 ---
 
-# 👨‍💻 About Me
+<h1>👨‍💻 About Me</h1>
 
-I'm a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, interested in building practical software, intelligent systems, and AI-powered applications.
+<table>
+<tr>
 
-I enjoy working across different layers of a project — from **data and machine learning models to backend APIs, frontend interfaces, databases, and intelligent user experiences**.
+<td width="58%" valign="top">
 
+<p>
+I'm a <strong>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</strong>, interested in building practical software, intelligent systems, and AI-powered applications.
+</p>
+
+<p>
+I enjoy working across different layers of a project — from <strong>data and machine learning models to backend APIs, frontend interfaces, databases, and intelligent user experiences</strong>.
+</p>
+
+<p>
 I'm particularly interested in projects where AI can become a useful part of a complete system rather than remaining only as an isolated model.
+</p>
 
-```text
-🎓 CSE — Artificial Intelligence & Machine Learning
-
-🤖 AI / Machine Learning
-🌐 Full-Stack Development
-🦾 Robotics & ROS 2
-🐍 Python Development
-☕ Java & OOP
-🗄️ Databases & SQL
+<p>
+🎓 CSE — Artificial Intelligence & Machine Learning<br><br>
+🤖 AI / Machine Learning<br>
+🌐 Full-Stack Development<br>
+🦾 Robotics & ROS 2<br>
+🐍 Python Development<br>
+☕ Java & OOP<br>
+🗄️ Databases & SQL<br>
 🚀 Building Real-World Projects
-```
+</p>
 
-</td> <td width="42%" valign="middle" align="center"> <img src="https://raw.githubusercontent.com/meganathm123-lgtm/meganathm123-lgtm/main/assets/about-me-github.gif" width="100%" alt="Meganath coding animation"/> </td> </tr> </table> ```
+</td>
+
+<td width="42%" valign="middle" align="right">
+
+<img src="https://raw.githubusercontent.com/meganathm123-lgtm/meganathm123-lgtm/main/assets/about-me-github.gif" width="100%" alt="Meganath coding animation">
+
+</td>
+
+</tr>
+</table>
+
+<hr>
 
 ---
 
