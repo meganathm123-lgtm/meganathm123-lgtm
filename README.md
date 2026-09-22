@@ -83,7 +83,7 @@ Building technology around practical problems, experiments, research ideas and r
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
 ### Core Programming
@@ -93,7 +93,6 @@ Python
 Java
 Java OOP
 JavaScript
-TypeScript
 SQL
 ```
 
@@ -112,9 +111,6 @@ TensorFlow
 TensorFlow Lite
 Natural Language Processing
 RAG
-BERT
-DistilBERT
-spaCy
 ```
 
 ### ML Workflow
@@ -139,11 +135,8 @@ Explainable AI
 
 ```text
 Retrieval-Augmented Generation (RAG)
-BERT / DistilBERT
-spaCy
 Vector Search
 ChromaDB
-FAISS
 LLM-based Applications
 Conversational AI
 Multilingual AI
