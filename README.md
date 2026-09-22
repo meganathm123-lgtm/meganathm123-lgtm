@@ -295,10 +295,12 @@ Robot Communication
 Modular Architecture
 AI-based Responses
 Human-Robot Interaction
+
 ```
 <a href="https://github.com/meganathm123-lgtm/ucif-humanoid">
 View Repository →
 </a>
+
 ---
 
 ## 🌱 Arova Naturals
