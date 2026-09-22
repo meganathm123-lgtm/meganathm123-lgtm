@@ -34,6 +34,10 @@ I'm particularly interested in projects where AI can become a useful part of a c
 🚀 Building Real-World Projects
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meganathm123-lgtm/meganathm123-lgtm/main/assets/about-me-github.gif" width="800" alt="Meganath coding animation"/>
+</p>
+
 ---
 
 # ⚡ What I Like Building
@@ -297,6 +301,7 @@ AI-based Responses
 Human-Robot Interaction
 
 ```
+
 <a href="https://github.com/meganathm123-lgtm/ucif-humanoid">
 View Repository →
 </a>
@@ -407,18 +412,12 @@ Intelligent Healthcare Systems
 <p align="center">
 
 <b>Learn</b>
- → 
-<b>Research</b>
- → 
-<b>Design</b>
- → 
-<b>Build</b>
- → 
-<b>Test</b>
- → 
-<b>Document</b>
- → 
-<b>Improve</b>
+→ <b>Research</b>
+→ <b>Design</b>
+→ <b>Build</b>
+→ <b>Test</b>
+→ <b>Document</b>
+→ <b>Improve</b>
 
 </p>
 
@@ -447,7 +446,6 @@ It should be **understandable, documented, testable, maintainable, and continuou
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
