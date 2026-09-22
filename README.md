@@ -1,43 +1,42 @@
 <h1 align="center">Hi 👋, I'm Meganath</h1>
 
 <h3 align="center">
-AI & ML • Full-Stack Development • Robotics • Building Real-World Systems
+CSE (AI & ML) • AI/ML Developer • Full-Stack Builder • Robotics Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Building+AI-Powered+Applications;Full-Stack+Developer;Exploring+Robotics+%26+ROS+2;Turning+Ideas+Into+Working+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=820&lines=Artificial+Intelligence+%26+Machine+Learning;Building+AI-Powered+Applications;Python+%7C+Java+%7C+React+%7C+FastAPI;Exploring+Robotics+%26+ROS+2;From+Ideas+to+Working+Systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=meganathm123-lgtm&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, focused on building practical software and intelligent systems.
+I'm a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, interested in building practical software, intelligent systems, and AI-powered applications.
 
-I enjoy working across the stack — from **machine learning models and AI systems to APIs, interfaces, databases, and robotics software**.
+I enjoy working across different layers of a project — from **data and machine learning models to backend APIs, frontend interfaces, databases, and intelligent user experiences**.
+
+I'm particularly interested in projects where AI can become a useful part of a complete system rather than remaining only as an isolated model.
 
 ```text
-🎓 CSE (AI & ML)
+🎓 CSE — Artificial Intelligence & Machine Learning
+
 🤖 AI / Machine Learning
 🌐 Full-Stack Development
 🦾 Robotics & ROS 2
-🐍 Python • ☕ Java
-🚀 Building & Experimenting
+🐍 Python Development
+☕ Java & OOP
+🗄️ Databases & SQL
+🚀 Building Real-World Projects
 ```
-
-My current goal is to become a strong **AI/ML-focused software engineer** by continuously building, documenting, and improving real-world projects.
 
 ---
 
-## 🧠 What I Build
+# ⚡ What I Like Building
 
 <table>
 <tr>
@@ -45,7 +44,7 @@ My current goal is to become a strong **AI/ML-focused software engineer** by con
 
 ### 🤖 Intelligent Systems
 
-Machine learning applications, AI assistants, prediction systems, and intelligent decision-support tools.
+Machine learning models, prediction systems, AI assistants, NLP applications and intelligent decision-support systems.
 
 </td>
 
@@ -53,7 +52,7 @@ Machine learning applications, AI assistants, prediction systems, and intelligen
 
 ### 🌐 Full-Stack Applications
 
-Modern web applications connecting frontend interfaces, APIs, databases, and AI services.
+Applications combining modern interfaces, backend APIs, databases and intelligent services.
 
 </td>
 </tr>
@@ -63,7 +62,7 @@ Modern web applications connecting frontend interfaces, APIs, databases, and AI 
 
 ### 🦾 Robotics & AI
 
-Exploring robotics software, ROS 2, speech systems, computer vision, and intelligent human-machine interaction.
+Exploring ROS 2, speech processing, computer vision and AI-based human-machine interaction.
 
 </td>
 
@@ -71,7 +70,7 @@ Exploring robotics software, ROS 2, speech systems, computer vision, and intelli
 
 ### 🚀 Real-World Products
 
-Building practical solutions that move beyond experiments toward usable products and systems.
+Building technology around practical problems, experiments, research ideas and real users.
 
 </td>
 </tr>
@@ -79,148 +78,310 @@ Building practical solutions that move beyond experiments toward usable products
 
 ---
 
-# 🛠️ Technical Stack
+# 🧠 Technical Arsenal
 
-### Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css"/>
 </p>
 
-### AI / Machine Learning
+### Core Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
-</p>
+```text
+Python
+Java
+Java OOP
+JavaScript
+TypeScript
+SQL
+```
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
 
 ```text
 Machine Learning
 Random Forest
 XGBoost
+Logistic Regression
+Support Vector Machines
 Scikit-learn
+TensorFlow
+TensorFlow Lite
 Natural Language Processing
 RAG
-Generative AI
-Model Evaluation
+BERT
+DistilBERT
+spaCy
 ```
 
-### Frontend
+### ML Workflow
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+```text
+Data Cleaning
+Exploratory Data Analysis
+Feature Engineering
+Model Training
+Model Evaluation
+Cross-Validation
+Hyperparameter Tuning
+SMOTE
+Precision / Recall / F1
+ROC-AUC
+Explainable AI
+```
 
-### Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-</p>
+## 🧠 AI & NLP
 
-### Databases
+```text
+Retrieval-Augmented Generation (RAG)
+BERT / DistilBERT
+spaCy
+Vector Search
+ChromaDB
+FAISS
+LLM-based Applications
+Conversational AI
+Multilingual AI
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+---
 
-### Tools & Platforms
+## 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
 ```text
-ROS 2 • REST APIs • Git • GitHub • Linux
+React
+React + TypeScript
+JavaScript
+TypeScript
+HTML
+CSS
+Tailwind CSS
+Chart.js
+react-chartjs-2
+```
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+</p>
+
+```text
+FastAPI
+Flask
+REST APIs
+API Integration
+Backend Development
+Model Serving
+```
+
+---
+
+## 🗄️ Databases & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
+</p>
+
+```text
+SQL
+SQLite
+PostgreSQL
+MongoDB
+Database Design
+Data Processing
+Pandas
+NumPy
+```
+
+---
+
+## 🦾 Robotics & Systems
+
+```text
+ROS 2
+ROS 2 Jazzy
+Python Robotics Development
+Robot Nodes
+ROS 2 Messages
+Event-Driven Architecture
+Speech Processing
+Voice Interfaces
+Computer Vision
+```
+
+---
+
+## 🎙️ Speech & Audio
+
+```text
+Whisper
+Silero VAD
+Voice Activity Detection
+Speech Recognition
+Audio Processing
+16 kHz Audio Pipelines
+```
+
+---
+
+## 📊 Data Visualization
+
+```text
+Matplotlib
+Chart.js
+react-chartjs-2
+Streamlit
+```
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+```text
+Git
+GitHub
+VS Code
+Linux
+Ubuntu
+WSL
+Windows
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 AI Cancer Care
+## 🧠 AI Cancer Care
 
-**An intelligent machine learning framework for continuous monitoring of cancer risk and recurrence analysis.**
+**AI-powered cancer recurrence prediction and intelligent patient-care system.**
 
-```text
-Machine Learning • Python • FastAPI • React • Explainable AI
-```
+A machine-learning based project focused on recurrence-risk analysis using clinical data, with an emphasis on explainability and patient-oriented interfaces.
 
-Focus areas:
+**Technologies**
 
-* Recurrence risk prediction
-* Clinical data processing
-* Explainable AI
-* Patient-focused dashboards
-* Intelligent care support
+`Python` `Machine Learning` `Random Forest` `XGBoost` `Scikit-learn` `FastAPI` `React` `SQL`
+
+<a href="https://github.com/meganathm123-lgtm/AI-Cancer-Care-Recurrence-Prediction">
+View Repository →
+</a>
 
 ---
 
-### 🦾 UCIF Humanoid
+## 🦾 UCIF Humanoid
 
-**AI-powered stationary humanoid robot system designed for intelligent campus assistance.**
+**AI-powered stationary humanoid robotics system for intelligent campus assistance.**
 
-```text
-Python • ROS 2 • AI • Speech • Computer Vision
-```
+A modular robotics project exploring voice interaction, speech processing, AI responses and ROS 2-based system architecture.
 
-Focus areas:
+**Technologies**
 
-* ROS 2 architecture
-* Voice interaction
-* Speech processing
-* AI-based responses
-* Modular robotics architecture
+`Python` `ROS 2` `ROS 2 Jazzy` `Whisper` `Silero VAD` `AI` `Speech Processing`
 
----
-
-### 📄 Enterprise Document Intelligence
-
-**AI-powered platform for intelligent document understanding and secure data extraction.**
+**Focus**
 
 ```text
-AI • NLP • Document Processing • Information Extraction
-```
-
-Focus areas:
-
-* Document understanding
-* Information extraction
-* Intelligent search
-* Secure data processing
-* AI-assisted workflows
-
----
-
-### 🎬 Developer Portfolio
-
-**Interactive personal portfolio focused on projects, engineering work, experimentation, and continuous learning.**
-
-```text
-React • TypeScript • Modern UI • Interactive Web
+Voice Interaction
+Speech Recognition
+Robot Communication
+Modular Architecture
+AI-based Responses
+Human-Robot Interaction
 ```
 
 ---
 
-# ⚙️ Engineering Approach
+## 🌱 Arova Naturals
+
+**Real-world digital product built for Arova Naturals.**
+
+A web presence for a real product/business, combining product presentation, branding and customer-facing web development.
+
+**Technologies**
+
+`React` `Web Development` `UI/UX` `JavaScript` `CSS`
+
+<a href="https://github.com/meganathm123-lgtm/arova-naturals">
+View Repository →
+</a>
+
+---
+
+## 🌊 FloatChat
+
+**Conversational application exploring data through an interactive interface.**
+
+A project focused on building an application around conversational interaction and data exploration.
+
+**Repository**
+
+<a href="https://github.com/meganathm123-lgtm/floatchat">
+View Repository →
+</a>
+
+---
+
+## 🦾 Learning Rate Robotic Arm
+
+**Robotics-focused machine learning experiment.**
+
+An experimental project exploring machine-learning concepts in the context of robotic-arm systems.
+
+**Technologies**
+
+`Python` `Machine Learning` `Robotics`
+
+<a href="https://github.com/meganathm123-lgtm/learning-rate-robotic-arm">
+View Repository →
+</a>
+
+---
+
+## 🎬 Movie Recommendation System
+
+**Machine-learning based movie recommendation application.**
+
+A recommendation-system project exploring data processing and machine-learning approaches for generating movie recommendations.
+
+**Technologies**
+
+`Python` `Machine Learning` `Pandas` `Scikit-learn`
+
+<a href="https://github.com/meganathm123-lgtm/movie-recommendation-system">
+View Repository →
+</a>
+
+---
+
+# 🔬 Engineering & Research Interests
 
 ```text
-        IDEA
-          ↓
-      RESEARCH
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-      DOCUMENT
-          ↓
-       IMPROVE
-          ↓
-       DEPLOY
+Artificial Intelligence
+Machine Learning
+Explainable AI
+Natural Language Processing
+Retrieval-Augmented Generation
+Human-Robot Interaction
+Robotics
+Computer Vision
+Speech Interfaces
+Intelligent Healthcare Systems
 ```
-
-I believe projects become valuable when they are not only built, but also **understood, documented, tested, and continuously improved**.
 
 ---
 
@@ -228,58 +389,75 @@ I believe projects become valuable when they are not only built, but also **unde
 
 ```text
 ☕ Java & Object-Oriented Programming
-🧠 Machine Learning & AI
+
 💻 Data Structures & Algorithms
+
+🧠 Machine Learning & AI
+
 🌐 Full-Stack Development
+
 🦾 Robotics & ROS 2
+
 🏗️ Software Engineering & System Design
+
+🗣️ Technical Communication
 ```
+
+---
+
+# 🧩 How I Build
+
+<p align="center">
+
+<b>Learn</b>
+ → 
+<b>Research</b>
+ → 
+<b>Design</b>
+ → 
+<b>Build</b>
+ → 
+<b>Test</b>
+ → 
+<b>Document</b>
+ → 
+<b>Improve</b>
+
+</p>
+
+I believe that a good project is more than a working demo.
+
+It should be **understandable, documented, testable, maintainable, and continuously improved**.
 
 ---
 
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meganathm123-lgtm&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=meganathm123-lgtm&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meganathm123-lgtm&show_icons=true&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=meganathm123-lgtm&hide_border=true"/>
 </p>
 
 ---
 
-# 🌱 Beyond Code
-
-I'm interested in the complete journey of building technology:
-
-```text
-Learn → Build → Experiment → Document → Share → Improve
-```
-
-From AI research and robotics experiments to real-world products, I enjoy exploring how technology can turn ideas into useful systems.
-
----
-
-# 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/meganathmadurai12">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:meganathm123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+
 ---
 
+# 💭 Philosophy
+
+> **Build with curiosity. Learn by building. Turn ideas into useful systems.**
+
 <p align="center">
-
-### ⚡ Build with curiosity. Learn by building.
-
+  <i>Always learning. Always building. Always improving.</i>
 </p>
