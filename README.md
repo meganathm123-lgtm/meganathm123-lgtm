@@ -285,11 +285,11 @@ Windows
 
 **AI-powered cancer recurrence prediction and intelligent patient-care system.**
 
-A machine-learning based project focused on recurrence-risk analysis using clinical data, with an emphasis on explainability and patient-oriented interfaces.
+A full-stack machine-learning application for analyzing clinical information and generating cancer recurrence-risk predictions, with authentication, explainability, analytics and report generation.
 
 **Technologies**
 
-`Python` `Machine Learning` `Random Forest` `XGBoost` `Scikit-learn` `FastAPI` `React` `SQL`
+`Python` `XGBoost` `Scikit-learn` `SHAP` `Flask` `React` `SQLite` `JWT` `Bcrypt`
 
 <a href="https://github.com/meganathm123-lgtm/AI-Cancer-Care-Recurrence-Prediction">
 View Repository →
@@ -305,7 +305,7 @@ A modular robotics project exploring voice interaction, speech processing, AI re
 
 **Technologies**
 
-`Python` `ROS 2` `ROS 2 Jazzy` `Whisper` `Silero VAD` `AI` `Speech Processing`
+`Python` `ROS 2` `ROS 2 Jazzy` `Whisper` `Silero VAD` `Speech Processing`
 
 **Focus**
 
@@ -316,7 +316,6 @@ Robot Communication
 Modular Architecture
 AI-based Responses
 Human-Robot Interaction
-
 ```
 
 <a href="https://github.com/meganathm123-lgtm/ucif-humanoid">
@@ -329,11 +328,11 @@ View Repository →
 
 **Real-world digital product built for Arova Naturals.**
 
-A web presence for a real product/business, combining product presentation, branding and customer-facing web development.
+A customer-facing digital presence created for the Arova Naturals product brand.
 
 **Technologies**
 
-`React` `Web Development` `UI/UX` `JavaScript` `CSS`
+`Web Development`
 
 <a href="https://github.com/meganathm123-lgtm/arova-naturals">
 View Repository →
@@ -343,11 +342,24 @@ View Repository →
 
 ## 🌊 FloatChat
 
-**Conversational application exploring data through an interactive interface.**
+**AI-powered conversational interface for exploring ARGO oceanographic data.**
 
-A project focused on building an application around conversational interaction and data exploration.
+A conversational data-exploration application that allows users to query and visualize ARGO float information using natural language.
 
-**Repository**
+**Technologies**
+
+`Python` `Streamlit` `PostgreSQL` `ChromaDB` `RAG` `Flan-T5` `Plotly` `Leaflet`
+
+**Focus**
+
+```text
+Conversational Data Exploration
+ARGO Ocean Data
+Natural Language Queries
+Vector Search
+Interactive Visualization
+RAG
+```
 
 <a href="https://github.com/meganathm123-lgtm/floatchat">
 View Repository →
@@ -357,13 +369,24 @@ View Repository →
 
 ## 🦾 Learning Rate Robotic Arm
 
-**Robotics-focused machine learning experiment.**
+**Neural-network experiment for analyzing learning-rate behavior in robotic-arm prediction.**
 
-An experimental project exploring machine-learning concepts in the context of robotic-arm systems.
+A machine-learning experiment that studies how different learning rates affect neural-network training, convergence, stability and prediction performance for robotic-arm end-effector position prediction.
 
 **Technologies**
 
-`Python` `Machine Learning` `Robotics`
+`Python` `TensorFlow` `Keras` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
+
+**Focus**
+
+```text
+Neural Networks
+Stochastic Gradient Descent
+Learning Rate Analysis
+Training & Validation Curves
+Robotic Arm Prediction
+Model Evaluation
+```
 
 <a href="https://github.com/meganathm123-lgtm/learning-rate-robotic-arm">
 View Repository →
@@ -373,13 +396,24 @@ View Repository →
 
 ## 🎬 Movie Recommendation System
 
-**Machine-learning based movie recommendation application.**
+**Content-based movie recommendation application using NLP and similarity analysis.**
 
-A recommendation-system project exploring data processing and machine-learning approaches for generating movie recommendations.
+A Streamlit application that recommends movies from user-provided keywords by processing movie genres and metadata, calculating similarity and retrieving posters through the TMDB API.
 
 **Technologies**
 
-`Python` `Machine Learning` `Pandas` `Scikit-learn`
+`Python` `Streamlit` `NLP` `CountVectorizer` `Cosine Similarity` `Pandas` `NumPy` `TMDB API`
+
+**Focus**
+
+```text
+Content-Based Filtering
+Natural Language Processing
+Text Vectorization
+Cosine Similarity
+Movie Recommendations
+TMDB API Integration
+```
 
 <a href="https://github.com/meganathm123-lgtm/movie-recommendation-system">
 View Repository →
@@ -447,7 +481,6 @@ It should be **understandable, documented, testable, maintainable, and continuou
 # 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meganathm123-lgtm&show_icons=true&hide_border=true&rank_icon=github"/>
   <img height="170" src="https://streak-stats.demolab.com?user=meganathm123-lgtm&hide_border=true"/>
 </p>
 
